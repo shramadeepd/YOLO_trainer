@@ -1,0 +1,4 @@
+datasets/
+segment/
+test/
+pipeline/__pycache__
