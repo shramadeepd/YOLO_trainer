@@ -1,4 +1,12 @@
 datasets/
+data/
+detect/
 segment/
 test/
 pipeline/__pycache__
+*.yaml
+*.pt
+*.env
+
+*/fetchdata.py
+pipeline/fetchdata.py
